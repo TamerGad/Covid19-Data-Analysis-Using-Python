@@ -1,0 +1,36 @@
+Welcome
+Welcome to COVID19 Data Visualization using Python. This is a project-based course which should take approximately 2 hours to finish. Before diving into the project, please take a look at the course objectives and structure:
+
+Course Objectives
+In this course, we are going to focus on 3 learning objectives:
+
+Learn to use visualization to answer to some analytical questions
+Learn to use different graphs needed to illustrate insights in your dataset 
+Learn to use Plotly module in python
+By the end of this project, you will learn How you can use data visualization techniques to answer some analytical questions. In this project we are going to use COVID19 dataset we have consisting of data-related cumulative number of confirmed, recovered, and deaths cases. we are going to prepare this dataset to answer these questions: How does Global Spread of the virus look like? How intensive the spread of the virus has been in the countries? Does covid19 national lockdowns and self-isolations in different countries have actually impact on COVID19 transmission? we are going to use Plotly module, which is a great visualization tool in python, in order to plot some insightful and intuitive graphs to answer the questions.    
+
+ 
+
+Course Structure
+This course is divided into 3 parts:
+
+Course Overview: This introductory reading material.
+COVID19 Data Visualization using Python: This is the hands on project that we will work on in Rhyme.
+Graded Quiz: This is the final assignment that you need to pass in order to finish the course successfully.
+Project Structure
+The hands on project on COVID19 Data Visualization using Python is divided into following tasks:
+
+Task 1: Introduction
+Understanding the purpose of the project, the dataset that will be used, and the questions that will be answered with the analysis    
+
+Task 2: Visualizing Global Spread of COVID-19 from first day of the Pandemic    
+ Using Choropleth map to Visualize Global Spread of COVID-19 from the first day of the pandemic    
+
+Task 3: Visualizing how intensive the Covid19 Transmission has been in each country    
+Using a Bar chart to compare different countries in terms of How massive the Spread of the virus has been in there.
+
+Task 4: COVID19 spread before and after lockdown in Italy    
+Visualizing the impact of the national lockdown in Italy on the spread of the virus.      
+
+Task 5: Deaths Rate Before and After national Lockdown in Italy 
+Visualizing the impact of the national lockdown in Italy on the death rate.  
